@@ -1,0 +1,37 @@
+.container{
+	text-align: center;
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 20px;
+
+}
+
+.greet{
+	text-align: center;
+	font-family: open-sans;
+	font-size: 25px;
+	font-weight: 600;
+	color: purple;
+	margin: 0;
+
+}
+h1{
+	font-size: 60px;
+	font-weight: 700;
+	font-family: serif;
+	margin: 0;
+
+}
+img{
+	height: 250px;
+	width: 250px;
+	padding-top: 20px;
+
+}
+.about{
+	font-family: poppins, sans-serif;
+	font-size: 18px;
+	font-weight: 400;
+	color: 333;
+}
